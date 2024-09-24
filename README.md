@@ -84,7 +84,7 @@ Once you have set up the environment, you can train the Quantum Generative Eigen
     python main.py
     ```
 
-This will begin training the model, generating sequences of quantum operators and optimizing their energies to match the ground-state energy of a molecule (like $ \text{H}_2 $).
+This will begin training the model, generating sequences of quantum operators and optimizing their energies to match the ground-state energy of a molecule (like $\text{H}_2$).
 
 ---
 
