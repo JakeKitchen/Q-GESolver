@@ -122,7 +122,7 @@ print(f"Loss: {loss.item()}")
 The UCC operators represent single and double excitations in molecular orbitals, which are critical for quantum simulations of molecular systems.
 
 - **Single Excitation**: 
-  $$ U_{\text{single}} = e^{i \theta (a^\dagger_i a_j - a^\dagger_j a_i)} $$
+  $$ E(\theta) = \left\langle \psi(\theta) \middle| H \middle| \psi(\theta) \right\rangle $$
 
 - **Double Excitation**:
   $$ U_{\text{double}} = e^{i \theta (a^\dagger_i^\dagger_j a_k a_l - a^\dagger_k^\dagger_l a_i a_j)} $$
