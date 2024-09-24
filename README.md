@@ -27,7 +27,7 @@ The core of this project is a **GPT-like Transformer** model that generates sequ
 
 ### Physics Background
 
-The **quantum mechanical Hamiltonian** of a molecular system describes the energy of electrons and nuclei. For a molecule like $ \text{H}_2 $, the Hamiltonian can be expressed as:
+The **quantum mechanical Hamiltonian** of a molecular system describes the energy of electrons and nuclei. For a molecule like $\text{H}_2$, the Hamiltonian can be expressed as:
 
 $$ H = -\sum_i \frac{\nabla_i^2}{2} - \sum_{i,j} \frac{Z_j}{r_{ij}} + \sum_{i < j} \frac{1}{r_{ij}} $$
 
@@ -58,7 +58,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Q-GESolver.git
+    git clone https://github.com/JakeKitchen/Q-GESolver
     cd Q-GESolver
     ```
 
